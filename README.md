@@ -18,6 +18,10 @@ The dashboard provides a single-page view of KPIs and workforce trends, enabling
 🗂️ Project Structure
 
 Data Tab → Raw dataset (with duplicates & blanks preserved)
+![alt text](<screenshots/Raw Data Table.png>)
+
+Main Staff Tab → Both IND  staff and NZ staff
+![alt text](<screenshots/Main Table.png>)
 
 IND Staff Tab → Clean dataset for Indian employees
 
@@ -33,9 +37,15 @@ Advance Tools Tab → Pivot summaries with slicers (Country, Gender)
 
 Salary Spread Tab → Salary bands + performance ratings with conditional formatting
 
+![alt text](<screenshots/salary spread.png>)
+
 Employee Trend Tab → Hiring/attrition trends over time
 
+![alt text](<screenshots/Employee trend.png>)
+
 Dashboard Tab → Central HR dashboard with KPIs & visuals
+
+
 
 📊 Dashboard Visuals
 🔹 KPI Cards
