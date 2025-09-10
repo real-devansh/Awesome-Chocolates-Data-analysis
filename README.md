@@ -34,7 +34,7 @@ Dashboard Tab → Central HR dashboard with KPIs & visuals
 📊 Dashboard Visuals
 🔹 KPI Cards
 
-![KPI Screenshot](screenshots\Dashboard.png)
+![Dashboard](Dashboard.png)
 
 Total Employees
 
