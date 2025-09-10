@@ -21,9 +21,15 @@ Data Tab → Raw dataset (with duplicates & blanks preserved)
 
 IND Staff Tab → Clean dataset for Indian employees
 
+![alt text](<screenshots/IND staff.png>)
+
 NZ Staff Tab → Clean dataset for New Zealand employees, with tenure calculations & XLOOKUP data finder
 
+![alt text](<screenshots/NZ staff.png>)
+
 Advance Tools Tab → Pivot summaries with slicers (Country, Gender)
+
+![alt text](<screenshots/Advance tools.png>)
 
 Salary Spread Tab → Salary bands + performance ratings with conditional formatting
 
@@ -48,21 +54,25 @@ Avg Tenure
 
 🔹 Employee Trend (Line Chart)
 
+![Employee trend](<screenshots/Employee trend.png>)
+
 Headcount growth/attrition trend over time.
 
-🔹 Average Salary by Department (Bar Chart)
-
-Comparison of pay across different departments.
-
 🔹 Gender Ratio (Donut Chart)
+
+![alt text](screenshots/Gender.png)
 
 Distribution of Male vs Female employees (filterable by slicer).
 
 🔹 Performance Ratings (Column Chart)
 
+![alt text](<screenshots/salary spread.png>)
+
 Employee distribution across ratings (Exceptional, Above Avg, Avg).
 
-🔹 Salary Distribution (Histogram) (Optional)
+🔹 Salary Distribution (Histogram)
+
+
 
 Visual spread of employee salaries across bands.
 
